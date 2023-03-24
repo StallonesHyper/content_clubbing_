@@ -1,0 +1,23 @@
+.Logo {
+  height: 4rem;
+}
+
+.Navigation {
+  height: 64px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
+
+input {
+  width: 20rem;
+  border-radius: 0.5rem;
+  height: 2rem;
+  border-width: 1.5px;
+  border-style: solid;
+  text-align: center;
+}
